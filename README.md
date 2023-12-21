@@ -1,7 +1,6 @@
 *Fizz Buzz*
 
 creo una costante 
-recupero l'elemento
 uso un for per stampare quanti numeri voglio
 creo una variabile
 imposto tramite un if che per avere la scritta fizzbuzz devi essere sia multiplo di 3 che di 5
